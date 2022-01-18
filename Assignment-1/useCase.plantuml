@@ -1,10 +1,11 @@
 @startuml Use Case Diagram
+skinparam backgroundColor #EEEBDC
 left to right direction
 skinparam packageStyle rectangle
 actor User 
 actor "Amazon Price Tracker" as Tracker
 actor ChatBot
-rectangle Donna {
+rectangle "Donna - Financial Assistant" {
   usecase "Income Details" as UC1
   usecase "Expenditure Details" as UC2
   usecase "List Requirements" as UC3
