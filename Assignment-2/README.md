@@ -4,7 +4,7 @@
 
 - **[Use Case Diagram](https://github.com/akshitgarg4/18103042-Software-Testing-Lab-Assignments/blob/main/Assignment-1/useCase.plantuml)**
 
-      ![Use Case Diagram](https://github.com/akshitgarg4/18103042-Software-Testing-Lab-Assignments/blob/main/Assignment-1/out/useCase/UseCaseDiagram.png)
+  ![Sequence Diagram](https://github.com/akshitgarg4/18103042-Software-Testing-Lab-Assignments/blob/main/Assignment-1/out/useCase/UseCaseDiagram.png)
 
   ### Code
 
