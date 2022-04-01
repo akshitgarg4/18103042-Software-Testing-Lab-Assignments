@@ -1,0 +1,4 @@
+Module 1: Create the above-mentioned program for control statements like if-else.
+Module 2: Create the above-mentioned program for the Loops.
+Module 3: Create the above-mentioned program for the Switch statement. 
+Module 4: Create a generalized program by combining modules 1,2 and 3.

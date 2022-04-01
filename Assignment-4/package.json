@@ -1,0 +1,15 @@
+{
+  "name": "assignment-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshit Garg (18103042)",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^99.0.0",
+    "selenium-webdriver": "^4.1.1"
+  }
+}
